@@ -1,0 +1,26 @@
+#navbar {
+  background-color: #f9f1f0;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(image/pict15.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+#aboutus {
+  background-color: #fadcd9;
+}
+
+#register {
+  background-color: #eeede7;
+}
+
+#footer {
+  background-color: #f9f1f0;
+}
+
+section {
+  padding-top: 5rem;
+}
